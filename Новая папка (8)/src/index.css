@@ -1,0 +1,13 @@
+
+.images{
+  margin-left: 200px;
+  width: 200px;
+}
+.container{
+  display: flex;
+  margin-top: 20px;
+}
+h2{
+  margin-top: 50px;
+  margin-left: -200px;
+}
